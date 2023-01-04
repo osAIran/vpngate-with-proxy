@@ -1,5 +1,5 @@
 # vpngate-with-proxy
-VPN GATE client for linux
+VPN GATE client for linux.
 * Be able to connect to open vpn servers at **http://www.vpngate.net/en/** directly or through proxy
 * Auto add DNS to fix DNS leak.
 * Auto filter out dead VPN servers.
